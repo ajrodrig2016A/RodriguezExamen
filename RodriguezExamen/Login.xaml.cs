@@ -14,6 +14,7 @@ namespace RodriguezExamen
     {
         public Login()
         {
+            //Examen Parcial Uno: Andres Rodriuez 9no B
             InitializeComponent();
         }
 
